@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ruhuk</h1>
+<h1 align="center">Hi 👋, I'm Ruhul</h1>
 <h3 align="center">CSE Undergrad at UIU 🇧🇩 | Full-Stack Developer | Leveraging DSA logic to build scalable, clean, and efficient software solutions. 🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruhul03&label=Profile%20views&color=0e75b6&style=flat" alt="ruhul03" /> </p>
