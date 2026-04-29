@@ -40,15 +40,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ruhulamin2005&show_icons=true&theme=radical" alt="Ruhul's GitHub stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruhulamin2005&layout=compact&theme=radical" alt="Top Languages" height="150" />
-</p>
-
----
-
 ### 📫 Connect with me
 
 <p align="left">
